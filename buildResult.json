@@ -1,0 +1,18 @@
+{
+    "packages": [
+        {
+            "name": "cool-package",
+            "version": "0.0.0.1",
+            "elapsed_time": 33,
+            "status": "succeeded"
+        }
+    ],
+    "summary": {
+        "scheduled_packages": 1,
+        "elapsed_time": 694,
+        "succeeded": 1,
+        "failed": 0,
+        "sucessfullReleaseConfigs": [],
+        "failedReleaseConfigs": []
+    }
+}
